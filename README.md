@@ -16,6 +16,9 @@ Após baixar o projeto, acesse ele via seu terminal rode os comandos:
 ```sh
 npm install
 npm start
+or 
+yarn install
+yarn start dev 
 ```
 
 ## History
